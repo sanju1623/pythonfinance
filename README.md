@@ -1,1 +1,1 @@
-# pythonfinance
+# python-finance
